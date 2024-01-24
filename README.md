@@ -1,4 +1,4 @@
-# foodscanner
+# foodscanapp
 
 A new Flutter project.
 
